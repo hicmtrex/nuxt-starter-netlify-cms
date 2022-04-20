@@ -45,7 +45,7 @@
     "remark-retext": "^4.0.0",
     "retext-english": "^3.0.4",
     "retext-repeated-words": "^3.0.0",
-    "retext-sentence-spacing": "^4.0.0",
+    "retext-sentence-spacing": "^5.2.0",
     "retext-spell": "^4.0.0",
     "retext-syntax-urls": "^2.0.0",
     "retext-usage": "^0.5.0",
